@@ -1,8 +1,8 @@
 {
-  "name": "aquadrain-online",
+  "name": "aquadrain-aeo-microlocal",
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "build": "rm -rf public && mkdir -p public && cp index.html sitemap.xml robots.txt public/"
+    "build": "rm -rf public && mkdir -p public && cp index.html sitemap.xml robots.txt llms.txt public/"
   }
 }
