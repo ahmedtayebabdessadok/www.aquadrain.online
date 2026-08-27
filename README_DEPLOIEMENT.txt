@@ -1,24 +1,16 @@
-AQUADRAIN — PACK GITHUB + VERCEL
+AQUADRAIN — AEO/GEO MICRO-LOCAL 2026
 
-Fichiers à mettre à la RACINE du dépôt GitHub :
-- index.html
-- package.json
-- vercel.json
-- CNAME
+Le site complet est contenu dans index.html.
+Les autres fichiers servent uniquement au déploiement et au crawl (Vercel, sitemap, robots, llms).
 
-Sur Vercel :
-- Framework Preset : Other
-- Build Command : npm run build
-- Output Directory : public
-- Install Command : npm install
-- Root Directory : vide
+Nouveaux clusters prioritaires : 31 pages micro-locales.
+Total des routes propres dans sitemap.xml : 102.
 
-Ensuite : Redeploy.
+Déploiement GitHub/Vercel :
+1. Décompresser le ZIP.
+2. Uploader les fichiers séparément à la racine du dépôt GitHub.
+3. Vercel : Framework Other, Build npm run build, Output public.
+4. Vérifier /sitemap.xml et /robots.txt.
+5. Soumettre sitemap.xml dans Google Search Console et Bing Webmaster Tools.
 
-Le formulaire reste configuré en 2 étapes :
-Préparer ma demande -> Vérifier/Modifier -> Envoyer ma demande.
-
-IMPORTANT DNS :
-Si Vercel est l'hébergeur final de www.aquadrain.online, le DNS du domaine doit pointer vers Vercel,
-pas vers GitHub Pages. Le fichier CNAME dans ce pack est uniquement utile côté GitHub Pages et peut
-être supprimé si vous utilisez exclusivement Vercel.
+Important : les pages micro-locales sont orientées AEO/GEO mais aucun classement n'est garanti. Les volumes exacts ne sont pas inventés ; les cibles viennent de l'analyse de l'intention et de la granularité des SERP.
