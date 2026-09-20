@@ -1,42 +1,36 @@
 # AquaDrain Service
 
-> Débouchage, hydrocurage, inspection caméra et assainissement à Paris et dans le Val-de-Marne.
+> Débouchage de canalisations, hydrocurage, inspection caméra, pompage et assainissement à Paris et en Île-de-France.
 
-## Pages locales prioritaires
-- https://www.aquadrain.online/debouchage-canalisation-vaugirard/ — Débouchage de canalisation à Vaugirard — Paris 15
-- https://www.aquadrain.online/debouchage-wc-vaugirard/ — WC bouché à Vaugirard — intervention Paris 15
-- https://www.aquadrain.online/debouchage-canalisation-convention-paris-15/ — Débouchage de canalisation à Convention — Paris 15
-- https://www.aquadrain.online/debouchage-canalisation-javel-paris-15/ — Débouchage de canalisation à Javel — Paris 15
-- https://www.aquadrain.online/hydrocurage-paris-15/ — Hydrocurage de canalisation à Paris 15
-- https://www.aquadrain.online/debouchage-canalisation-bercy/ — Débouchage de canalisation à Bercy — Paris 12
-- https://www.aquadrain.online/debouchage-wc-picpus/ — Débouchage WC à Picpus — Paris 12
-- https://www.aquadrain.online/hydrocurage-paris-12/ — Hydrocurage à Paris 12 — curage haute pression
-- https://www.aquadrain.online/debouchage-canalisation-tolbiac/ — Débouchage de canalisation à Tolbiac — Paris 13
-- https://www.aquadrain.online/wc-bouche-olympiades-paris-13/ — WC bouché aux Olympiades — Paris 13
-- https://www.aquadrain.online/hydrocurage-paris-13/ — Hydrocurage à Paris 13 — curage de canalisation
-- https://www.aquadrain.online/debouchage-canalisation-belleville-paris-20/ — Débouchage de canalisation à Belleville — Paris 20
-- https://www.aquadrain.online/debouchage-wc-menilmontant/ — Débouchage WC à Ménilmontant — Paris 20
-- https://www.aquadrain.online/urgence-canalisation-gambetta-paris-20/ — Urgence canalisation à Gambetta — Paris 20
-- https://www.aquadrain.online/hydrocurage-paris-20/ — Hydrocurage à Paris 20 — curage haute pression
-- https://www.aquadrain.online/debouchage-canalisation-la-varenne-saint-hilaire/ — Débouchage de canalisation à La Varenne-Saint-Hilaire
-- https://www.aquadrain.online/debouchage-wc-la-varenne-saint-hilaire/ — Débouchage WC à La Varenne-Saint-Hilaire
-- https://www.aquadrain.online/debouchage-canalisation-adamville/ — Débouchage de canalisation à Adamville — Saint-Maur
-- https://www.aquadrain.online/debouchage-wc-adamville/ — Débouchage WC à Adamville — Saint-Maur
-- https://www.aquadrain.online/debouchage-wc-joinville-le-pont/ — Débouchage WC à Joinville-le-Pont
-- https://www.aquadrain.online/hydrocurage-joinville-le-pont/ — Hydrocurage de canalisation à Joinville-le-Pont
-- https://www.aquadrain.online/hydrocurage-creteil/ — Hydrocurage de canalisation à Créteil
-- https://www.aquadrain.online/inspection-camera-canalisation-creteil/ — Inspection caméra de canalisation à Créteil
-- https://www.aquadrain.online/debouchage-wc-le-perreux-sur-marne/ — Débouchage WC au Perreux-sur-Marne
-- https://www.aquadrain.online/urgence-canalisation-bonneuil-sur-marne/ — Urgence canalisation à Bonneuil-sur-Marne
-- https://www.aquadrain.online/debouchage-wc-chennevieres-sur-marne/ — Débouchage WC à Chennevières-sur-Marne
-- https://www.aquadrain.online/debouchage-canalisation-joinville-le-pont/ — Débouchage de canalisation à Joinville-le-Pont
-- https://www.aquadrain.online/debouchage-canalisation-le-perreux-sur-marne/ — Débouchage de canalisation au Perreux-sur-Marne
-- https://www.aquadrain.online/debouchage-canalisation-bonneuil-sur-marne/ — Débouchage de canalisation à Bonneuil-sur-Marne
-- https://www.aquadrain.online/debouchage-canalisation-chennevieres-sur-marne/ — Débouchage de canalisation à Chennevières-sur-Marne
-- https://www.aquadrain.online/debouchage-canalisation-sucy-en-brie/ — Débouchage de canalisation à Sucy-en-Brie
+## Entité
+- Marque : AquaDrain Service
+- Exploitant légal : AQUABAT SERVICE
+- Adresse : 15 avenue Jean Jaurès, 94100 Saint-Maur-des-Fossés, France
+- Téléphone : 06 17 40 66 59
+- Site : https://www.aquadrain.online/
 
-## Pages piliers
+## Services principaux
 - https://www.aquadrain.online/debouchage-canalisation/
+- https://www.aquadrain.online/debouchage-wc/
 - https://www.aquadrain.online/hydrocurage-curage-canalisation/
 - https://www.aquadrain.online/inspection-camera-canalisation/
+- https://www.aquadrain.online/assainissement-pompage-canalisation/
+
+## Tarifs de départ publiés
+- Débouchage manuel : 69 €
+- Inspection caméra : 109 €
+- Haute pression / hydrocurage : 159 €
+- Pompage fosse septique : 189 €
+
+## Réponses et guides
+- https://www.aquadrain.online/guide/prix-debouchage-canalisation-2026/
+- https://www.aquadrain.online/guide/wc-bouche-eau-remonte/
+- https://www.aquadrain.online/guide/canalisation-bouchee-locataire-proprietaire/
+- https://www.aquadrain.online/guide/prix-inspection-camera-canalisation/
+
+## Zones
 - https://www.aquadrain.online/zones-intervention-debouchage/
+- https://www.aquadrain.online/debouchage-canalisation-paris-15/
+- https://www.aquadrain.online/debouchage-canalisation-creteil/
+- https://www.aquadrain.online/debouchage-canalisation-saint-maur-des-fosses/
+- https://www.aquadrain.online/debouchage-canalisation-joinville-le-pont/

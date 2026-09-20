@@ -1,15 +1,70 @@
 {
+  "$schema": "https://openapi.vercel.sh/vercel.json",
   "buildCommand": "npm run build",
   "outputDirectory": "public",
   "framework": null,
   "cleanUrls": false,
-  "routes": [
+  "trailingSlash": true,
+  "redirects": [
     {
-      "handle": "filesystem"
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
     },
     {
-      "src": "/.*",
-      "dest": "/index.html"
+      "source": "/debouchage-canalisation-joinville-saint-maur/",
+      "destination": "/debouchage-canalisation-joinville-le-pont/",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/sitemap.xml",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "application/xml; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    },
+    {
+      "source": "/robots.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "public, max-age=3600"
+        }
+      ]
+    },
+    {
+      "source": "/llms.txt",
+      "headers": [
+        {
+          "key": "Content-Type",
+          "value": "text/plain; charset=utf-8"
+        }
+      ]
+    },
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
     }
   ]
 }
